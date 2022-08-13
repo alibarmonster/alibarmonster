@@ -1,4 +1,14 @@
-### Hi there 👋
+#Hi there 👋
+
+Perkenalkan nama saya **Muh Alief Akbar**.
+
+Saya seorang mahasiswa tahun ketiga jurusan informatika
+
+Saya ini saya sedang belajar front end dan back end dan tertarik pada machine learning yaitu Computer vision
+
+Hit me up on [Linkedin](https://www.linkedin.com/in/muh-alief-akbar-9ba650205/)
+
+
 
 <!--
 **Alibarrs/alibarrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
