@@ -1,16 +1,10 @@
 # Hi there 👋
 
-Perkenalkan nama saya **Muh Alief Akbar**.
-
-Saya seorang mahasiswa tahun ketiga jurusan informatika
-
-Saat ini Saya sedang belajar front end dan back end dan tertarik pada machine learning yaitu Computer vision
-
 Hit me up on [Linkedin](https://www.linkedin.com/in/muh-alief-akbar-9ba650205/)
 
 <p align="left">
-<a href="https://github.com/alibarrs">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alibarrs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/alibarmonster">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alibarmonster&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alibarrs&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
