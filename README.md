@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm Currently Learning K8s, Sequelize and Google Cloud Platform Services<br>💬 Ask me about Cloud Computing<br>📧 Reach me alibar838@gmail.com<br>🔥 Fun fact I'm also like to lifting my wilks score is 310.26
+🌱 I'm Currently Learning TypeScript, nestjs and Google Cloud Platform Services<br>💬 Ask me about Cloud Computing<br>📧 Reach me alibar838@gmail.com<br>🔥 Fun fact I'm also like to lifting my wilks score is 310.26
 
 
 ## 🌐 Socials:
